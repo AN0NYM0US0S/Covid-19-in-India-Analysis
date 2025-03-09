@@ -30,4 +30,3 @@ In this project, Python and Jupyter Notebook were utilized to analyze COVID-19 d
 
 ### Conclusion:
 This project serves as a comprehensive tool for tracking and understanding the COVID-19 situation in India through data analysis and visualization. By following the provided code and instructions, users can gain insights into the pandemic's impact, monitor vaccination progress, and make data-driven decisions to combat the spread of the virus effectively.
-
